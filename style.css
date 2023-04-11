@@ -1,0 +1,199 @@
+* {
+    box-sizing: border-box;
+}
+#head_butt {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 30px;
+    float: right !important;
+}
+.navbar-collapse {
+    display: flex;
+    justify-content: space-evenly;
+}
+nav {
+    background-image: url(https://www.grumpybeartown.com/images/bg1-min.png);
+}
+#sec_1 {
+    background-image: url(https://www.grumpybeartown.com/images/bg1-min.png);
+}
+.secend_img {
+    height: 100px;
+}
+#secon_btt {
+    background-color: white;
+    padding: 10px 100px;
+    border-radius: 20px;
+    display: block;
+}
+#sec_bytt {
+    background-color: red;
+    color: white;
+    border-radius: 23px;
+    border: none;
+    padding: 17px 50px;
+    margin-top: 10px;
+}
+.sec_div {
+    background-image: url(https://www.grumpybeartown.com/images/bg2-min.png);
+}
+#pra {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+.card_img {
+    float: right;
+    margin-right: 10px;
+}
+#second_pra {
+    color: white;
+    font-size: 32px;
+    margin-left: 15px;
+}
+.party {
+    background-color: #2f559d;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.sta {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.stas {
+    color: white;
+    font-size: 49px;
+    font-weight: bolder;
+}
+.blue_color {
+    color: #7bd1ff;
+    margin-left: 10px;
+    font-size: 30px;
+}
+#thrid_div {
+    background-image: url(https://www.grumpybeartown.com/images/bg3-min.png);
+}
+.ft {
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #6cb1ed;
+}
+.yello {
+    color: #fce956;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+.contataer_1 {
+    background-color: #fce956;
+    display: inline-block;
+}
+.watc {
+    float: left !important;
+    padding: 11px 8px;
+}
+.pa {
+    font-size: large;
+    font-weight: 900;
+    font-size: 30px;
+}
+.paa {
+    font-size: x-large;
+    font-weight: bold;
+
+}
+.yello_pra_div {
+    padding: 30px;
+
+}
+.main_box {
+    margin-top: 20px;
+}
+.contatar_box {
+    border: 20px;
+    border: 3px solid #000;
+    display: flex;
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 40px;
+    padding: 18px;
+    margin: 15px;
+    width: 170px;
+    margin-left: 40px;
+    display: inline-block;
+}
+
+#box_righ {
+    display: inline;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+.secne_div {
+    background-image: url(https://www.grumpybeartown.com/images/bg4-min.png)
+}
+.team_wor {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 30px;
+}
+.d-block {
+    object-fit: cover;
+    align-items: center;
+    width: 70% !important;
+    height: 70% !important;
+}
+.myimg {
+    object-fit: cover;
+    align-items: center;
+    width: 100% !important;
+    height: 100% !important;
+
+}
+.last_div {
+    background-color: rgb(84, 150, 227)
+}
+.whhite {
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: x-large;
+}
+.whit_color {
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+#black_color {
+    color: #000;
+    font-size: larger;
+    text-align: center;
+}
+footer {
+    background-color: rgb(0, 48, 99);
+    padding: 70px;
+
+}
+#foot_text {
+    color: white;
+
+}
+.foot_icon {
+    color: white;
+    margin: 10px;
+}
